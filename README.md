@@ -20,3 +20,17 @@ The project was created to explore how BTC behaves across different hours, days 
 
 <img width="1987" height="1115" alt="market_behavior" src="https://github.com/user-attachments/assets/9f8812a0-5186-4296-9ca4-641186280675" />
 
+## What the Dashboard Shows
+
+The dashboard shows:
+
+- how BTC 5-minute volatility changes throughout the day
+- differences in market behavior between Asia, London, New York and AfterHours sessions
+- average candle range, body size and close position
+- changes in taker buy share across different hours
+- trading activity measured by quote volume and trade count
+- the distribution of Directional, Mixed and Indecision candles
+- differences in average quote volume between days of the week
+- combinations of day and hour with higher or lower average 5-minute range
+- the share of candles where taker buy volume is above 50%
+
